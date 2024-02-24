@@ -21,7 +21,10 @@ This is a simple quiz game written in Python using the Open Trivia Database API.
    ```bash
    pip install requests
    ```
-
+   ```bash
+   pip install random2
+   ```
+   
 3. Run the program:
 
    ```bash
